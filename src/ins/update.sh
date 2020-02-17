@@ -7,10 +7,9 @@
 #                                    __/ |
 #                                   |___/
 #
-#Greet's To
-#IcoDz - Canejo
 #Tool For Hacking
 #Authors : CRO-THEHACKER & Manisso
+#Updated By Thisas
 
 clear
 
