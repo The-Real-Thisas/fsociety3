@@ -25,7 +25,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/CRO-THEHACKER/fsociety3.git /usr/share/doc/fsociety3;
+git clone https://github.com/The-Real-Thisas/fsociety3.git /usr/share/doc/fsociety3;
 echo "#!/bin/bash
 python /usr/share/doc/fsociety3/src/platform/guess.py" '${1+"$@"}' > fsociety3;
 chmod +x fsociety3;
