@@ -1,13 +1,10 @@
-[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/CRO-THEHACKER/fsociety3/blob/master/LICENSE) ![Os](https://img.shields.io/badge/Platform-Linux%20%7C%20OSX%20%7C%20Windows%20%7C%20Android-orange.svg)
-[![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-381/)
+
 # Fsociety Hacking Tools Pack – A Penetration Testing Framework
 A Penetration Testing Framework, you will have every script that a hacker needs
 # Fsociety Contains All Tools Used In Mr Robot Series
 ![alt tag](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)
 
-# JOIN THE DISCORD!
-For any help or just to join; please join our discord:
-+ [Discord](https://discord.gg/BaBpuPn)
+
 # Menu
 + Information Gathering
 + Password Attacks
